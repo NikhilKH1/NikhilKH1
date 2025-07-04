@@ -7,6 +7,6 @@ I’ve also led projects involving machine learning and NLP — including a clou
 Currently, I’m focused on distributed systems, performance optimization, and combining AI with scalable backend infrastructure. My work reflects a strong foundation in system design, clean code practices, and collaborative engineering.
 
 Feel free to explore my projects or connect with me:
-- Email: harish.n@northeastern.edu  
+- Email: nikkh27@gmail.com
 - LinkedIn: https://www.linkedin.com/in/nikhil-k-harish/  
 - Publication: https://doi.org/10.1007/978-981-16-3342-3_3
