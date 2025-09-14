@@ -23,6 +23,13 @@ I’ve had the privilege of working at **Alcon R&D** and **Accenture**, where I 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
 
+## 📜 Certifications  
+
+![AWS Solutions Architect Professional](https://img.shields.io/badge/AWS%20Solutions%20Architect%20Professional-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)  
+![AWS Solutions Architect Associate](https://img.shields.io/badge/AWS%20Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)  
+![Microsoft Azure Fundamentals (AZ-900)](https://img.shields.io/badge/Microsoft%20Azure%20Fundamentals%20(AZ--900)-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)  
+![Microsoft Azure Data Fundamentals (DP-900)](https://img.shields.io/badge/Microsoft%20Azure%20Data%20Fundamentals%20(DP--900)-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)  
+
 **Backend & Frameworks**  
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)  
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
