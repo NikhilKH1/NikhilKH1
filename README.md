@@ -1,10 +1,10 @@
 # Hey, I am Nikhil Kundalli Harish  
 
-💡 **Backend & DevSecOps Engineer | MSCS @ Northeastern University | Cloud-Native & AI Enthusiast**  
+**Backend & DevSecOps Engineer | MSCS @ Northeastern University | Cloud-Native & AI Enthusiast**  
 
 ---
 
-## 🚀 About Me  
+## About Me  
 
 I am a **results-driven engineer** with 4+ years of experience designing **backend systems** and automating **cloud-native infrastructure** across **AWS and Azure**.  
 Currently pursuing my **MS in Computer Science at Northeastern University (Boston)**, I focus on **backend engineering, distributed systems, and DevOps/MLOps**.  
@@ -46,7 +46,7 @@ I’ve had the privilege of working at **Alcon R&D** and **Accenture**, where I 
 
 ---
 
-## 🌟 What I’m Up To  
+## What I am Up To  
 
 - 🔭 Building **cloud-native backend systems** with microservices & event-driven design  
 - ☁ Expanding expertise in **DevOps/MLOps pipelines** for production AI workloads  
@@ -60,4 +60,4 @@ I’ve had the privilege of working at **Alcon R&D** and **Accenture**, where I 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhil-k-harish)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikkh27@gmail.com)  
 
-⭐️ Always excited to contribute to impactful projects in **Backend, DevOps, and AI/Cloud**.  
+Always excited to contribute to impactful projects in **Backend, DevOps, and AI/Cloud**.  
