@@ -25,8 +25,8 @@ I’ve had the privilege of working at **Alcon R&D** and **Accenture**, where I 
 
 ## 📜 Certifications  
 
-![AWS Solutions Architect Professional](https://img.shields.io/badge/AWS%20Solutions%20Architect%20Professional-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)  
-![AWS Solutions Architect Associate](https://img.shields.io/badge/AWS%20Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)  
+![AWS Solutions Architect - Professional (SAP-C02)](https://img.shields.io/badge/AWS%20Solutions%20Architect%20Professional-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)  
+![AWS Solutions Architect - Associate (SAA-C03)](https://img.shields.io/badge/AWS%20Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)  
 ![Microsoft Azure Fundamentals (AZ-900)](https://img.shields.io/badge/Microsoft%20Azure%20Fundamentals%20(AZ--900)-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)  
 ![Microsoft Azure Data Fundamentals (DP-900)](https://img.shields.io/badge/Microsoft%20Azure%20Data%20Fundamentals%20(DP--900)-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)  
 
