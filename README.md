@@ -46,13 +46,6 @@ I’ve had the privilege of working at **Alcon R&D** and **Accenture**, where I 
 
 ---
 
-## 📊 GitHub Stats  
-
-![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikhilkh27&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilkh27&layout=compact&theme=tokyonight)  
-
----
-
 ## 🌟 What I’m Up To  
 
 - 🔭 Building **cloud-native backend systems** with microservices & event-driven design  
