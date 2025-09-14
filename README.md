@@ -1,12 +1,70 @@
-I'm Nikhil Kundalli Harish, a graduate student in Computer Science at Northeastern University, with a background in software engineering and cloud infrastructure. I’m passionate about building reliable backend systems, automating development workflows, and applying AI to solve meaningful problems.
+# 👋 Hey, I’m Nikhil Kundalli Harish  
 
-My experience spans across full-time engineering roles at Accenture and Alcon, where I worked on microservices, CI/CD automation, and containerized deployments using tools like Java, Spring Boot, Docker, Kubernetes, and AWS.
+💡 **Backend & DevSecOps Engineer | MSCS @ Northeastern University | Cloud-Native & AI Enthusiast**  
 
-I’ve also led projects involving machine learning and NLP — including a cloud-native document processing system using AWS Bedrock and LLaMA 3, and a published research project on crop recommendation using SVMs.
+---
 
-Currently, I’m focused on distributed systems, performance optimization, and combining AI with scalable backend infrastructure. My work reflects a strong foundation in system design, clean code practices, and collaborative engineering.
+## 🚀 About Me  
 
-Feel free to explore my projects or connect with me:
-- Email: harish.n@northeastern.edu
-- LinkedIn: https://www.linkedin.com/in/nikhil-k-harish/  
-- Publication: https://doi.org/10.1007/978-981-16-3342-3_3
+I’m a **results-driven engineer** with 4+ years of experience designing **backend systems** and automating **cloud-native infrastructure** across **AWS and Azure**.  
+Currently pursuing my **MS in Computer Science at Northeastern University (Boston)**, I focus on **backend engineering, distributed systems, and DevOps/MLOps**.  
+
+I’ve had the privilege of working at **Alcon R&D** and **Accenture**, where I built production-grade systems that improved uptime, accelerated release cycles, and hardened security compliance.  
+
+⚡ Fun fact: I love blending **AI with DevOps**, like building an **AI-powered RAG Document Processor** with AWS Bedrock + LLaMA 3 deployed via serverless + Kubernetes.  
+
+---
+
+## 🛠️ Tech Stack  
+
+**Languages**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
+
+**Backend & Frameworks**  
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)  
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
+
+**Cloud & DevOps**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)  
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)  
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)  
+![GitLab CI/CD](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)  
+
+**Monitoring & Security**  
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)  
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)  
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)  
+![ELK](https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white)  
+
+---
+
+## 📊 GitHub Stats  
+
+![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikhilkh27&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilkh27&layout=compact&theme=tokyonight)  
+
+---
+
+## 🌟 What I’m Up To  
+
+- 🔭 Building **cloud-native backend systems** with microservices & event-driven design  
+- ☁ Expanding expertise in **DevOps/MLOps pipelines** for production AI workloads  
+- 📚 Learning advanced **system design & distributed systems** for scalable platforms  
+- 🤝 Open to collaborating on **backend + DevOps + AI-driven projects**  
+
+---
+
+## 📫 Let’s Connect  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhil-k-harish)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikkh27@gmail.com)  
+
+⭐️ Always excited to contribute to impactful projects in **Backend, DevOps, and AI/Cloud**.  
