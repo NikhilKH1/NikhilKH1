@@ -6,8 +6,8 @@
 
 ## About Me  
 
-I am a **results-driven engineer** with 4+ years of experience designing **backend systems** and automating **cloud-native infrastructure** across **AWS and Azure**.  
-Currently pursuing my **MS in Computer Science at Northeastern University (Boston)**, I focus on **backend engineering, distributed systems, and DevOps/MLOps**.  
+I am a **results-driven engineer** with 4+ years of experience designing **full stack systems** and automating **cloud-native infrastructure** across **AWS and Azure**.  
+Currently pursuing my **MS in Computer Science at Northeastern University (Boston)**, I focus on **full stack engineering, distributed systems, and DevOps/MLOps**.  
 
 I’ve had the privilege of working at **Alcon R&D** and **Accenture**, where I built production-grade systems that improved uptime, accelerated release cycles, and hardened security compliance.  
 
@@ -30,7 +30,7 @@ I’ve had the privilege of working at **Alcon R&D** and **Accenture**, where I 
 ![Microsoft Azure Fundamentals (AZ-900)](https://img.shields.io/badge/Microsoft%20Azure%20Fundamentals%20(AZ--900)-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)  
 ![Microsoft Azure Data Fundamentals (DP-900)](https://img.shields.io/badge/Microsoft%20Azure%20Data%20Fundamentals%20(DP--900)-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)  
 
-**Backend & Frameworks**  
+**full stack & Frameworks**  
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)  
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
@@ -55,10 +55,10 @@ I’ve had the privilege of working at **Alcon R&D** and **Accenture**, where I 
 
 ## What I am Up To  
 
-- 🔭 Building **cloud-native backend systems** with microservices & event-driven design  
+- 🔭 Building **cloud-native full stack systems** with microservices & event-driven design  
 - ☁ Expanding expertise in **DevOps/MLOps pipelines** for production AI workloads  
 - 📚 Learning advanced **system design & distributed systems** for scalable platforms  
-- 🤝 Open to collaborating on **backend + DevOps + AI-driven projects**  
+- 🤝 Open to collaborating on **full stack + DevOps + AI-driven projects**  
 
 ---
 
@@ -67,4 +67,4 @@ I’ve had the privilege of working at **Alcon R&D** and **Accenture**, where I 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhil-k-harish)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikkh27@gmail.com)  
 
-Always excited to contribute to impactful projects in **Backend, DevOps, and AI/Cloud**.  
+Always excited to contribute to impactful projects in **full stack, DevOps, and AI/Cloud**.  
