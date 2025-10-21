@@ -1,6 +1,6 @@
 # Hey, I am Nikhil Kundalli Harish  
 
-**Backend & DevSecOps Engineer | MSCS @ Northeastern University | Cloud-Native & AI Enthusiast**  
+**Software Engineer | MSCS @ Northeastern University | Cloud-Native & AI Enthusiast**  
 
 ---
 
